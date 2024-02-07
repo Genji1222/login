@@ -1,3 +1,7 @@
+## Login
+
+This project demonstrates user registration and login. Its purpose is to verify connectivity between the frontend and backend. 
+This will learn about a simple front-end and back-end and you will know with the web structure we work with.
 # Frontend
   -In the project directory, you can run:
   
