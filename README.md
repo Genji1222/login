@@ -29,5 +29,14 @@ This will learn about a simple front-end and back-end and you will know with the
     -db.sql 
     
      mysql install
-     
+
+# Important
+  1.In the typescript,made 5 advertising pages using tailwind css.Here very imortant is very use the tailwind css.
+  
+    Imortant is very use the tailwind css. tailwind css is design tool make easy the HTML .
+
+  2.So, I did many frontend  skill that using material ui. First, I finished the interface very fast than using HTML and CSS.
+  
+    Second, this is beneficial complete the Responsive Web Design
+
   
