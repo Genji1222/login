@@ -1,8 +1,10 @@
-## Login
+# Login
 
+Login website is a app developed in javascript using React, Node, express ,HTML and CSS.
 This project demonstrates user registration and login. Its purpose is to verify connectivity between the frontend and backend. 
 This will learn about a simple front-end and back-end and you will know with the web structure we work with.
-# Frontend
+
+## Frontend
   -In the project directory, you can run:
   
     ### `npm start`
@@ -15,7 +17,7 @@ This will learn about a simple front-end and back-end and you will know with the
   
      react
 
-# Bakend
+## Bakend
      -In the project directory, you can run:
      
         ### `node index.js`
