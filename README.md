@@ -41,6 +41,6 @@ This will learn about a simple front-end and back-end and you will know with the
   
       Second, this is beneficial complete the Responsive Web Design
       
-  3.nextJS framework used.
+  3.I used the nextJS framework .
     
   
