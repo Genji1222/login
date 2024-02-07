@@ -32,7 +32,7 @@ This will learn about a simple front-end and back-end and you will know with the
 
 # Important
   1.In the typescript,made 5 advertising pages using tailwind css.Here very imortant is very use the tailwind css.
-  
+    -
     Important is very use the tailwind css. tailwind css is design tool make easy the HTML .
 
   2.Also, I did many frontend  skill that using material ui. 
